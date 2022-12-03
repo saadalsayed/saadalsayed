@@ -8,4 +8,4 @@
 # Hello! 👋️
 
 
-## I am good at a few things:
+I have experience with different technologies  AWS,, VMware, Docker, Docker Swarm ,Kubernetes, Linux, system, Bash Script, Ansible , ,python, GitOps , ArgoCd, Monitoring Tools , Prometheus , Grafana ,Instana ,Splunk , Notification systems , PagerDuty .. etc )
