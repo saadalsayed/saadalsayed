@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://raw.githubusercontent.com/saadalsayed/saadalsayed/main/Removal-440.png" height="150" width="20%" >
+  <img src="https://raw.githubusercontent.com/saadalsayed/saadalsayed/main/Removal-440.png" height="250" width="20%" >
  </p>	
 <img src="https://raw.githubusercontent.com/saadalsayed/saadalsayed/main/waves.svg" width="100%" height="150">
 
